@@ -3,6 +3,5 @@
 	{
 		"name": "WaterUnitCrossLandThorughRiver",
 		"uniques": ["May Paradrop up to [10] tiles from inside friendly territory <in tiles adjacent to [River] tiles> <in [City center] tiles>"],
-		"unitTypes": ["Water"],
     },
 ]
